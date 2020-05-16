@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar  6 01:38:42 2020
-
-@author: marga
-"""
 
 from matplotlib import pyplot as plt
 import numpy as np
@@ -67,8 +61,7 @@ def fastmapalg(dismap,num_coor):
         k = k+1
         
     return np.array(fastmap).T
-        
-        
+
         
 result = fastmapalg(dismap, 2)
 
