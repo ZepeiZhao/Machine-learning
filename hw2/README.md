@@ -1,2 +1,2 @@
 # Kmeans and GMM
-Coworker: Mingjun Liu
+Co-worker: Mingjun Liu
