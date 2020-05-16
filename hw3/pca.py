@@ -1,5 +1,5 @@
 import numpy as np
-data = np.loadtxt('/Users/pz/Desktop/inf552/hw3pca+fastmap/pca-data.txt')
+data = np.loadtxt('pca-data.txt')
 def newX(data):
     colmean = np.mean(data,axis = 0)
     newX = data - colmean
