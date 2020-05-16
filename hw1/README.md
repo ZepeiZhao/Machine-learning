@@ -1,3 +1,3 @@
 # Decision Tree
 
-Team Member: Zihao Wang, Mingjun Liu
+Team Members: Zihao Wang, Mingjun Liu
