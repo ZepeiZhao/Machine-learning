@@ -1,7 +1,7 @@
-#Zepei Zhao
-#USCID:5635405542
-#Mingjun Liu
-#USCID:1321657359
+# Zepei Zhao
+# USCID:5*******2
+# Mingjun Liu
+# USCID:1*******9
 
 from matplotlib import pyplot as plt
 from copy import deepcopy
