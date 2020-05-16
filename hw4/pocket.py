@@ -1,5 +1,5 @@
-#Zepei Zhao (5635405542)
-#Mingjun Liu (1321657359)
+#Zepei Zhao (5*2)
+#Mingjun Liu (1*9)
 
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import pyplot as plt
