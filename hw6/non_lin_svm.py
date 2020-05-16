@@ -1,5 +1,5 @@
-#Zepei Zhao (5635405542)
-#Mingjun Liu (1321657359)
+#Zepei Zhao (5*2)
+#Mingjun Liu (1*9)
 
 import numpy as np
 import cvxopt
